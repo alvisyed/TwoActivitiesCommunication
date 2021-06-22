@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="year_of_birth_hint">Year of birth</string>
+    <string name="continue_bt">Continue</string>
+    <string name="details">Please provide the additional details:</string>
+    <string name="city_hint">City</string>
+    <string name="state_hint">State</string>
+    <string name="country_hint">Country</string>
+    <string name="save_and_exit">Save and Exit</string>
+
+
+</resources>
